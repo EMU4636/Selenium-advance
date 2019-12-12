@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11466" started-at="2019-11-05T21:02:03Z" finished-at="2019-11-05T21:02:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11466" started-at="2019-11-05T21:02:03Z" finished-at="2019-11-05T21:02:14Z">
+      <class name="burlington.SmokeTest">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:burlington.SmokeTest@27efef64]" name="openbrowser" is-config="true" duration-ms="2974" started-at="2019-11-05T21:02:00Z" finished-at="2019-11-05T21:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="getWebSite()[pri:0, instance:burlington.SmokeTest@27efef64]" name="getWebSite" is-config="true" duration-ms="3378" started-at="2019-11-05T21:02:03Z" finished-at="2019-11-05T21:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWebSite -->
+        <test-method status="PASS" signature="burlingtonTitleUrlLogo()[pri:0, instance:burlington.SmokeTest@27efef64]" name="burlingtonTitleUrlLogo" duration-ms="7870" started-at="2019-11-05T21:02:06Z" finished-at="2019-11-05T21:02:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- burlingtonTitleUrlLogo -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:burlington.SmokeTest@27efef64]" name="closebrowser" is-config="true" duration-ms="207" started-at="2019-11-05T21:02:14Z" finished-at="2019-11-05T21:02:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- burlington.SmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

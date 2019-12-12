@@ -1,0 +1,13 @@
+<suite name="burlington.project">
+   
+   <test name="homepage">
+     <classes>
+       <class name="burlington.SmokeTest">
+         <methods>
+            <exclude name="burlingtonTopMenuBar"></exclude>
+         </methods>
+        </class>
+     </classes>
+   </test>
+
+</suite>
