@@ -23,6 +23,8 @@ public class SmokeTest extends Base {
 		homepage = new HomePage(dr);
 		homepage.closeEmailSignUpPopUp();
 		homepage.getSizeFromTopMenu();
+		System.out.println("gittest");
+		System.out.println("firstpersont to push new code");
 	}
 	
 	
